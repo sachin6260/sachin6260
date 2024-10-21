@@ -1,14 +1,11 @@
   <h1 align="center">Hi 👋, I'm Sachin Choudhary</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate fullstack  developer from India</h3>
 
  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachin6260&label=Profile%20views&color=0e75b6&style=flat" alt="sachin6260" /> </p>
 
-- 📫 How to reach me **sachinchoudharyweb62@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
- 
+- 📫 How to reach me **sachinchoudharyweb62@gmail.com** 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
