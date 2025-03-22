@@ -15,7 +15,7 @@
 ---
 
 ### 🚀 Languages and Tools:
-<p align="center">
+<p>
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40" style="margin-right: 10px;"/>
   </a>
@@ -66,7 +66,7 @@
 <p >
   <img src="https://github-readme-stats.vercel.app/api?username=sachin6260&show_icons=true&locale=en" alt="Sachin's GitHub Stats" />
 </p>
-<p align="center">
+<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachin6260&theme=default" alt="GitHub Streak Stats" />
 </p>
 
