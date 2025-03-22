@@ -63,7 +63,7 @@
 ---
 
 ### 📊 GitHub Stats:
-<p align="center">
+<p >
   <img src="https://github-readme-stats.vercel.app/api?username=sachin6260&show_icons=true&locale=en" alt="Sachin's GitHub Stats" />
 </p>
 <p align="center">
@@ -72,8 +72,7 @@
 
 ---
 
-### 🎨 Custom Graphic:
-<p align="center">
+ <p align="center">
   <img src="https://puu.sh/HyrmV/95c458d9d9.png" alt="Custom Graphic" width="500"/>
 </p>
 
