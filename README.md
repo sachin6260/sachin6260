@@ -78,7 +78,4 @@
 
 ---
 
-This code ensures the README file is structured cleanly, includes relevant sections, and keeps all visuals aligned nicely for GitHub. The alignment and use of icons improve readability while keeping the profile professional yet creative.
-
-Let me know if you need further customizations! 😊
 ```
