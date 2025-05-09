@@ -72,8 +72,4 @@
 
 ---
 
- <p>
-  <img src="https://puu.sh/HyrmV/95c458d9d9.png" alt="Custom Graphic" width="500"/>
-</p>
-
 ---
