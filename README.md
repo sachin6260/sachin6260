@@ -32,10 +32,7 @@
   <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
   <img src="https://developer.android.com/static/studio/images/new-studio-logo-1_1920.png" alt="Android Studio" width="40" height="40" style="margin-right: 10px;" />
 </a>
- 
-  <a href="https://appwrite.io/" target="_blank" rel="noreferrer">
-  <img src="https://avatars.githubusercontent.com/u/54012442?s=200&v=4" alt="Appwrite" width="40" height="40" style="margin-right: 10px;" />
-</a>
+
 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" style="margin-right: 10px;"/>
@@ -74,7 +71,9 @@
   <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="margin-right: 10px;" />
   </a>
-
+<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
+  <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira" width="40" height="40" style="margin-right: 10px;" />
+</a>
 </p>
 
 ---
