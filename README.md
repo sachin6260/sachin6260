@@ -7,10 +7,14 @@
 </p>
 
 ---
+## 🚀 About Me
 
-### 📫 Connect with Me:
-- **Email**: [sachinchoudharyweb62@gmail.com](mailto:sachinchoudharyweb62@gmail.com)  
-- **LinkedIn**: [Sachin Choudhary](https://www.linkedin.com/in/sachin-choudhary-68925b251/)
+- 🏢 **Current Position:** Mobile Application Flutter Developer at **Softocrets Technologies**, Indore  
+- 🌱 **Currently Learning:** Advanced Flutter and Android development techniques  
+- 👯 **Looking to Collaborate On:** Mobile app projects and open-source contributions  
+- 💬 **Ask Me About:** Flutter, Android, Firebase,web, and API integrations,  
+- 📫 **Contact Me:** sachinchoudharyweb62@gmail.com  
+- ⚡ **Fun Fact:** I enjoy playing chess and exploring new technologies  
 
 ---
 
@@ -28,9 +32,7 @@
   <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
   <img src="https://developer.android.com/static/studio/images/new-studio-logo-1_1920.png" alt="Android Studio" width="40" height="40" style="margin-right: 10px;" />
 </a>
- <a href="https://bloclibrary.dev/#/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/logo_full.png" alt="Bloc" width="40" height="40" style="margin-right: 10px;" />
-</a>
+ 
   <a href="https://appwrite.io/" target="_blank" rel="noreferrer">
   <img src="https://avatars.githubusercontent.com/u/54012442?s=200&v=4" alt="Appwrite" width="40" height="40" style="margin-right: 10px;" />
 </a>
@@ -68,11 +70,17 @@
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" style="margin-right: 10px;" />
 </a>
-
+ <!-- GitHub -->
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="margin-right: 10px;" />
+  </a>
 
 </p>
 
 ---
+
+### 📫 Connect with Me:
+ - **LinkedIn**: [Sachin Choudhary](https://www.linkedin.com/in/sachin-choudhary-68925b251/)
 
 ### 📊 GitHub Stats:
 <p >
