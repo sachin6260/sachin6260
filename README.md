@@ -22,9 +22,19 @@
   <a href="https://dart.dev" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40" style="margin-right: 10px;"/>
   </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" style="margin-right: 10px;"/>
-  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" style="margin-right: 10px;" />
+</a>
+  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
+  <img src="https://developer.android.com/static/studio/images/new-studio-logo-1_1920.png" alt="Android Studio" width="40" height="40" style="margin-right: 10px;" />
+</a>
+ <a href="https://bloclibrary.dev/#/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/logo_full.png" alt="Bloc" width="40" height="40" style="margin-right: 10px;" />
+</a>
+  <a href="https://appwrite.io/" target="_blank" rel="noreferrer">
+  <img src="https://avatars.githubusercontent.com/u/54012442?s=200&v=4" alt="Appwrite" width="40" height="40" style="margin-right: 10px;" />
+</a>
+
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" style="margin-right: 10px;"/>
   </a>
@@ -55,9 +65,11 @@
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" style="margin-right: 10px;"/>
   </a>
-  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" style="margin-right: 10px;"/>
-  </a>
+ <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" style="margin-right: 10px;" />
+</a>
+
+
 </p>
 
 ---
